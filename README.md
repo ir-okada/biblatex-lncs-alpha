@@ -1,5 +1,8 @@
 # biblatex-lncs-alpha
-I modify "biblatex-lncs" to be alphabetic.
+This is an alphabetic variant of  "biblatex-lncs":
+
+- https://www.ctan.org/pkg/biblatex-lncs
+- https://github.com/mgttlinger/biblatex-lncs
 
 ## Usage
 
