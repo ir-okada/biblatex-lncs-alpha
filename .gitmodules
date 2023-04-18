@@ -1,0 +1,3 @@
+[submodule "biblatex-lncs"]
+	path = biblatex-lncs
+	url = https://github.com/mgttlinger/biblatex-lncs.git
